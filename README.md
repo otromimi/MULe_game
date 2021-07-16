@@ -1,2 +1,2 @@
 # MULe_game
-little game with pygame
+Space invaders like game coded with pygame with different theme for multimedia lesson.
